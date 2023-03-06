@@ -1,0 +1,11 @@
+4:Algoritmo de cálculo de fatorial: um algoritmo que calcula o fatorial de um número, ou seja, o 
+produto de todos os números inteiros de 1 até aquele número.
+1:peça o número inicial
+2:criar variavel produto com inicio no 1
+3:adicione todos os numeros > numero inicial e <=1 interios na variavel produto 
+4:para cada elemnto na variavel faça:
+5:produto = elemento . produto 
+6:mostre o produto
+
+
+
