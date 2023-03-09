@@ -1,0 +1,10 @@
+6.Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um número, elevando-o a uma determinada potência.
+1:peça o numero
+2:peça o numero do expoente
+3:faça var base igual ao valor do numero
+4:faça var expoente igual ao valor do numero do expoente
+5:então faça o produto da var base com a var base e repita esse procediemnto igual o numero da var expoente
+6:faça a divisão da var base pelo numero
+6.1:o resultado dessa operação sera igual ao resultado da potencia
+7:mostre o resultado
+8:fim  
