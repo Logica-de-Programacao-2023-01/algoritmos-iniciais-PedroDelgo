@@ -1,0 +1,14 @@
+9.Algoritmo de cálculo de juros compostos: um algoritmo que calcula o montante de dinheiro após um período de tempo com juros compostos.
+1:pergunte o capital aplicado
+2:pergunte a taxa de juros
+3:pergunte o tempo de aplicação
+4:faça uma var chamada de C que é igaul ao valor do capital aplicado
+5:faça uma var chamada de Tx que é igual ao valor da taxa de juros
+6:faça uma var chamada de Tp que é igual ao valor do tempo de aplicação
+7:faça Tx + 1
+8:então faça o produto de Tx com Tx e repita essa operação igual o numero da var Tp
+9:então faça a divisão de Tx por Tx + 1
+10:então faça o produto da var C pelo o resultado das operações da var Tx
+10.1: o resultado dessa operação é igual ao resultado do montante
+11:mostre o resultado do montante
+12:fim
