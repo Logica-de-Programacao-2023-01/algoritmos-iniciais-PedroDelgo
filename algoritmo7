@@ -1,0 +1,9 @@
+7.Algoritmo de verificação de número primo: um algoritmo que verifica se um número é primo, ou seja, se é divisível apenas por 1 e por ele mesmo.
+1:leia o número
+2:crie uma var chamada de primo igual o valor do número
+2:faça a divisão da var primo pela a var primo
+3:se o resultado for 0 esse numero é primo
+3.1:mostre resultado
+4:senão for 0 o resultado esse numero não é primo
+4.1:mostre resultado
+5:fim
